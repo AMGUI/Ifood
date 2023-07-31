@@ -1,8 +1,13 @@
 <h1 align="center">
-<img alt="Demo on Netlify" width="270" height="485" src="resources/tela_home" /> 
-<img alt="Demo on Netlify" width="270" height="485"    src="resources/telaSplash" />
+<img alt="Demo on Netlify"
+  width="270" height="485"
+  src="resources/tela_home.png" /> 
+  
+<img alt="Demo on Netlify"
+  width="270" height="485"
+  src="resources/telaSplash.png" />
   <br>
-  Android Aplicativo Studio Ghibli
+  Ifoof clone
 </h1>
 
 <h4 align="center">
