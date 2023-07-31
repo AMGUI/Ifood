@@ -1,13 +1,14 @@
 <h1 align="center">
-<img alt="Demo on Netlify"
-  width="270" height="485"
-  src="resources/tela_home.png" /> 
   
 <img alt="Demo on Netlify"
-  width="270" height="485"
+  width="270" height="405"
   src="resources/telaSplash.png" />
+
+  <img alt="Demo on Netlify"
+  width="270" height="405"
+  src="resources/tela_home.png" /> 
   <br>
-  Ifoof clone
+  Ifood clone
 </h1>
 
 <h4 align="center">
