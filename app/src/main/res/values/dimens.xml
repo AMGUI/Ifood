@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="icon_h_ultima_loja">60dp</dimen>
+    <dimen name="icons_w_ultima_loja">80dp</dimen>
+</resources>

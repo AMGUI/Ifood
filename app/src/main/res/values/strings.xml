@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ifood</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_add">New Address</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="markets">Markets</string>
+    <string name="pet">Pet Shops</string>
+    <string name="yorFood">Yor Food</string>
+    <string name="lastStore">Last Store</string>
+    <string name="showMore">Show More</string>
+</resources>
